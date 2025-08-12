@@ -1,0 +1,10 @@
+{
+  "name": "Анна",
+  "age": 27,
+  "city": "Москва",
+  "hobbies": ["Плавание", "Кино", "Путешествия"],
+  "photos": [
+    "https://example.com/photos/anna1.jpg",
+    "https://example.com/photos/anna2.jpg"
+  ]
+}
